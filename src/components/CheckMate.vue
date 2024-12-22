@@ -80,7 +80,7 @@
             }
           break;
           case "Elena":
-            if (password == "3436") {
+            if (password == "9293") {
               alert("Te toca Jeremy")
             } else {
               alert("La contraseña no es correcta")
