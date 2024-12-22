@@ -2,14 +2,14 @@
     <div class="container text-center">
       <div class="row">
         <div class="col">
-          <h1>Amigo Invisible 2023</h1>
+          <h1>Amigo Invisible 2024</h1>
         </div>
       </div>
       <div class="row">
         <div class="col">
           <h4>Normas</h4>
           <p>
-            - Comprar algo de entre 10 y 15€ <br>
+            - Son mayorcitos, no se pasen<br>
             - Tenerlo listo antes del 24 de Diciembre <br>
             - No decir a nadie quien es tu amigo invisible <br>
           </p>
@@ -17,7 +17,7 @@
       </div>
     </div>
   </template>
-  
+
   <script>
   export default {
     name: 'HelloWorld',
@@ -26,7 +26,7 @@
     }
   }
   </script>
-  
+
   <!-- Add "scoped" attribute to limit CSS to this component only -->
   <style scoped>
   h3 {
