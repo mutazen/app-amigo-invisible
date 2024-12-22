@@ -33,3 +33,9 @@ npm run build
 ```sh
 npm run lint
 ```
+
+### Compile and Minify for GH-Pages
+
+```sh
+npm run deploy
+```
